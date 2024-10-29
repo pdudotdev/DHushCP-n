@@ -2,8 +2,8 @@
 # 🛡️ DHushCP-n: DHushCP with Nested Steganography 🛡️
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
-[![Stable Release](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/0SINTr/DHushCP-n/releases/tag/v0.1.0)
-[![Last Commit](https://img.shields.io/github/last-commit/0SINTr/DHushCP-n)](https://github.com/0SINTr/DHushCP-n/commits/main/)
+[![Stable Release](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/pdudotdev/DHushCP-n/releases/tag/v0.1.0)
+[![Last Commit](https://img.shields.io/github/last-commit/pdudotdev/DHushCP-n)](https://github.com/pdudotdev/DHushCP-n/commits/main/)
 
 ## 📖 Table of Contents
 
@@ -24,7 +24,7 @@
 
 **DHushCP-n** is a Linux-based, secure communication tool built on top of **DHushCP**. This version introduces **nested text steganography**, enhancing **DHushCP**'s capabilities by embedding covert messages within cover texts using zero-width characters.
 
-Read all about **DHushCP**'s features [**HERE**](https://github.com/0SINTr/DHushCP?tab=readme-ov-file#%EF%B8%8F-dhushcp-covert-communication-via-dhcp-%EF%B8%8F).
+Read all about **DHushCP**'s features [**HERE**](https://github.com/pdudotdev/DHushCP?tab=readme-ov-file#%EF%B8%8F-dhushcp-covert-communication-via-dhcp-%EF%B8%8F).
 
 🍀 **NOTE:** This is an ongoing **research project** for educational purposes rather than a full-fledged production-ready tool, so treat it accordingly.
 
@@ -115,7 +115,7 @@ Unlike the original **DHushCP**, the **DHushCP-n** version comes with some limit
 
 1. **Clone the Repository:** Use the commands below in your Linux terminal.
    ```bash
-   git clone https://github.com/0SINTr/DHushCP-n.git
+   git clone https://github.com/pdudotdev/DHushCP-n.git
    cd DHushCP
    ```
 
@@ -152,16 +152,4 @@ Follow the on-screen prompts on the **Initiator** to initiate and manage the com
 **DHushCP-n** is intended for educational and authorized security testing purposes only. Unauthorized interception or manipulation of network traffic is illegal and unethical. Users are responsible for ensuring that their use of this tool complies with all applicable laws and regulations. The developers of **DHushCP-n** do not endorse or support any malicious or unauthorized activities. Use this tool responsibly and at your own risk.
 
 ## 📜 License
-**DHushCP-n** is licensed under the [GNU GENERAL PUBLIC LICENSE Version 3](https://github.com/0SINTr/DHushCP-n/blob/main/LICENSE).
-
-## 📧 Professional Collaborations
-
-- **Email Address**:  
-  Please direct your inquiries to **sintr.0@pm.me**.
-
-- **Important Guidelines**:  
-  - Use a **professional email** or a **ProtonMail** address.
-  - Keep your message **concise** and written in **English**.
-
-- **Security Notice**:  
-  Emails with **links** or **attachments** will be ignored for security reasons.
+**DHushCP-n** is licensed under the [GNU GENERAL PUBLIC LICENSE Version 3](https://github.com/pdudotdev/DHushCP-n/blob/main/LICENSE).
